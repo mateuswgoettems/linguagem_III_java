@@ -16,7 +16,7 @@ public class MediaSalario {
 
         mediaSalarial = totalSalario / salarios.size();
 
-        System.out.printf("%.2f", mediaSalarial);
+        System.out.printf("\n%.2f\n", mediaSalarial);
 
     }
 
